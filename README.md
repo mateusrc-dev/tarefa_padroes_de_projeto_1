@@ -1,0 +1,1 @@
+# Exercício do curso desenvolvedor fullstack JAVA da EBAC no qual usamos o padrão Abstract Factory onde criamos classes de fábricas concretas que estendem fábricas abstratas com propriedades e métodos comuns que vão fazer parte das fábricas, essas fábricas criam carros, e podemos reutiliza-las sempre que necessário, e o trabalho delas ocorre por baixo dos panos.
